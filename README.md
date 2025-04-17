@@ -4,6 +4,7 @@
 3. Install latest mysql and mysql server.
 4. Run the attached sql script.
 5. Open file in jupiter notebook and run.
+6. Enter into application using mysql username and password.
 
 
 # GUI_Based_LibraryManagementSystem
