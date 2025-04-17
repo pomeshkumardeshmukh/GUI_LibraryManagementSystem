@@ -1,3 +1,11 @@
+# HYOW TO USE
+1. INSTALL jupyter notyebook in our system.
+2. Make sure it should have following packages (tk, pymql)
+3. Install latest mysql and mysql server.
+4. Run the attached sql script.
+5. Open file in jupiter notebook and run.
+
+
 # GUI_Based_LibraryManagementSystem
 <h3>Admin Authentication Window</h3>
 <img src = "https://user-images.githubusercontent.com/71655875/187219991-ad88bb7d-660e-40c8-88a9-de2b80fb66e5.png" width="800" height="500">
