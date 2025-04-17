@@ -1,4 +1,4 @@
-# HYOW TO USE
+# HOW TO USE
 1. INSTALL jupyter notyebook in our system.
 2. Make sure it should have following packages (tk, pymql)
 3. Install latest mysql and mysql server.
